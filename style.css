@@ -3,10 +3,10 @@ h1 {
   color: white;
 }
   
-.page-header {
+#titre {
+  font-size: 45px;
   font-weight: 700;
   color: #debbc4;
-  font-size: 45px;
 }
 
 
