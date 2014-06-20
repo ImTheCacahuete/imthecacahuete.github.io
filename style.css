@@ -42,3 +42,7 @@ footer {
 .mega-octicon {
   font: 102px/1 octicons;
 }
+
+small {
+  font-family:Lato;
+}
