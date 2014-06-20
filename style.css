@@ -39,6 +39,6 @@ footer {
   font-family: Lobster;
 }
   
-.mega-octicon .octicon-plug {
-  height:50px;
+.mega-octicon {
+  font:102px;
 }
