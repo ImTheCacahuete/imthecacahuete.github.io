@@ -1,1 +1,7 @@
-button
+button {
+  height: 60px;
+  width: 60px;
+}
+a {
+  color: black;
+}
