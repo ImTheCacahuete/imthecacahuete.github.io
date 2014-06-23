@@ -5,3 +5,10 @@ button {
 a {
   color: black;
 }
+
+  body {
+    background: url(http://i.imgur.com/pHUMMDJ.png) no-repeat fixed;
+    background-size: cover;
+    font-size: 20;
+    font-family: Inconsolata;
+}
