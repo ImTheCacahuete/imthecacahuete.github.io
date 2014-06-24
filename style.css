@@ -47,6 +47,6 @@ small {
   font-family:Lato;
 }
 
-.label .label-default {
-  background-color: #ff1969;
+.label-default {
+    background-color: #ff1969;
 }
